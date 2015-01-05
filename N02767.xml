@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0f69715bdabf0bc0:003298_0000_0F692645F40283A0"/>
-            <pb facs="tcp:0f69715bdabf0bc0:003298_0001_0F692646AEE249F0"/>
+            <pb facs="unknown:003298_0000_0F692645F40283A0"/>
+            <pb facs="unknown:003298_0001_0F692646AEE249F0"/>
             <p>TYPOGRAPHIA. AN ODE, ON PRINTING.</p>
             <p>Inscrib'd to the Honourable <hi>WILLIAM GOOCH,</hi> 
                <abbr>Esq</abbr> His Majesty's Lieutenant-Governor, and Commander in Chief of the Colony of <hi>VIRGINIA.</hi>
@@ -135,7 +135,7 @@
             <p>WILLIAMSBURG: Printed by WILLIAM PARKS. M, DCC, XXX.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:0f69715bdabf0bc0:003298_0002_0F69264763E50E70"/>
+            <pb facs="unknown:003298_0002_0F69264763E50E70"/>
             <head>To the Honourable <hi>WILLIAM GOOCH,</hi> 
                <abbr>Esq</abbr> His Majesty's Lieutenant-Governor, and Commander in Chief of the Colony of <hi>VIRGINIA.</hi>
             </head>
@@ -145,7 +145,7 @@
             <p>
                <seg rend="decorInit">T</seg>HE following Piece, occasion'd by the setting up a <hi>Printing-Press</hi> in <hi>Williamsburg,</hi> justly claims a Title to some Share of Your Protec<g ref="char:EOLhyphen"/>tion, as the Subject-Matter of it, the Art of <hi>PRINTING,</hi> owes to You its Patronage and En<g ref="char:EOLhyphen"/>couragement; whence, by a natural Deduction, this ought as necessarily to follow the Fate and Fortune of that, as Effects do their Causes.</p>
             <p>IF upon the Prospect of a great many Advantages be<g ref="char:EOLhyphen"/>yond-peradventure likely to accrue to this Colony, from an ART so long wanting among us, I have not been able to restrain my own Inclinations to write the ensuing Trifle, (the first Essay of this Kind attempted here,) I hope this at least will make it the less inexcusable, that I have said nothing herein, which, I am confident, will not be readily assented to, by all who have the Happiness to live under the present Administration, in this Colony: Unless, perhaps, this Exception be taken, that where a disinterested and unprejudic'd PATRIOTISM,
-<pb n="iv" facs="tcp:0f69715bdabf0bc0:003298_0003_0F692649B8F498D0"/>
+<pb n="iv" facs="unknown:003298_0003_0F692649B8F498D0"/>
 (for I will not be asham'd of the Word) of a Governor to his People, and a reciprocal Affection and Obedience of them to Him is to be describ'd, the Author of this Piece may have wanted a Scale of Thought and Compre<g ref="char:EOLhyphen"/>hension equal to the Height of the Merits <gap reason="illegible: blotted" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the One, or the cordial Duty of the other; and that on such a Subject it were better to be silent, than to say too little. I must confess there is some Weight in the Argument; but I seek not to palliate my Imperfections of that Na<g ref="char:EOLhyphen"/>ture, lest I should be answer'd with the same sarcastic Question as <hi>Albinus,</hi> a <hi>Roman</hi> Author, was by <hi>Cato,</hi> on the same Occasion, <hi>Whether any one had compelled me to write</hi>?</p>
@@ -160,7 +160,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="5" facs="tcp:0f69715bdabf0bc0:003298_0004_0F69264A73011160"/>
+            <pb n="5" facs="unknown:003298_0004_0F69264A73011160"/>
             <head>TYPOGRAPHIA. AN ODE, ON PRINTING.</head>
             <lg n="1">
                <head>I.</head>
@@ -176,7 +176,7 @@
                </l>
                <l>Gently to my Assistance move:</l>
                <l>
-                  <pb n="6" facs="tcp:0f69715bdabf0bc0:003298_0005_0F69264B256205C8"/>Whether on <hi>Pindus'</hi> lofty Top you play,</l>
+                  <pb n="6" facs="unknown:003298_0005_0F69264B256205C8"/>Whether on <hi>Pindus'</hi> lofty Top you play,</l>
                <l>Or, with Heav'n-kindled Fire,</l>
                <l>
                   <hi>M<gap reason="illegible: faint" extent="1 letter">
@@ -214,7 +214,7 @@
                <l>And peaceful shady Woods,</l>
                <l>May well demand</l>
                <l>
-                  <pb n="7" facs="tcp:0f69715bdabf0bc0:003298_0006_0F69264BEA273E98"/>Your sweetest Notes, and loftiest Strains,</l>
+                  <pb n="7" facs="unknown:003298_0006_0F69264BEA273E98"/>Your sweetest Notes, and loftiest Strains,</l>
                <l>Where, with supreme Command, your own <hi>AUGUSTUS</hi> reigns.</l>
             </lg>
             <lg n="3">
@@ -244,7 +244,7 @@
                <l>And all his Pow'r, his Honour, Happiness, is theirs.</l>
             </lg>
             <lg n="4">
-               <pb n="8" facs="tcp:0f69715bdabf0bc0:003298_0007_0F69264CAA58FCF8"/>
+               <pb n="8" facs="unknown:003298_0007_0F69264CAA58FCF8"/>
                <head>IV.</head>
                <l>
                   <hi>Such BRITAIN is,</hi> — "Oh happy envy'd Isle,</l>
@@ -273,7 +273,7 @@
                <l>And straight, with willing Mind,</l>
                <l>For her Relief prepar'd,</l>
                <l>
-                  <pb n="9" facs="tcp:0f69715bdabf0bc0:003298_0008_0F69264DDC83CA18"/>Her Sufferings to remove;</l>
+                  <pb n="9" facs="unknown:003298_0008_0F69264DDC83CA18"/>Her Sufferings to remove;</l>
                <l>He knew the MAN design'd</l>
                <l>To be <hi>VIRGINIA</hi>'s future Boast and Love;</l>
                <l>He knew His native Vertue and His Worth;</l>
@@ -299,7 +299,7 @@
                <l>Ev'n Party-Rancour dy'd away,</l>
                <l>And private Spleen.</l>
                <l>
-                  <pb n="10" facs="tcp:0f69715bdabf0bc0:003298_0009_0F69264E8F2F8AF0"/>We found whence <hi>Britain</hi> is so blest<g ref="char:punc">▪</g>
+                  <pb n="10" facs="unknown:003298_0009_0F69264E8F2F8AF0"/>We found whence <hi>Britain</hi> is so blest<g ref="char:punc">▪</g>
                </l>
                <l>Which had so much our Envy bore,</l>
                <l>We found — and griev'd we found it not before —</l>
@@ -329,7 +329,7 @@
                <l>For this the careful <hi>Artist</hi> wakes,</l>
                <l>And o'er his countless Brood he stands,</l>
                <l>
-                  <pb n="11" facs="tcp:0f69715bdabf0bc0:003298_0010_0F69264EED7D6A90"/>His numerous Hoards,</l>
+                  <pb n="11" facs="unknown:003298_0010_0F69264EED7D6A90"/>His numerous Hoards,</l>
                <l>Of <hi>speechless</hi> Letters, <hi>unform'd</hi> Words,</l>
                <l>
                   <hi>Unjointed</hi> Questions, and <hi>unmeaning</hi> Breaks,</l>
@@ -361,7 +361,7 @@
                <l>HIS lab'ring Thoughts with Wisdom teem,</l>
                <l>And struggle with the mighty Birth;</l>
                <l>
-                  <pb n="12" facs="tcp:0f69715bdabf0bc0:003298_0011_0F6926507098EEE8"/>Thy <hi>Art</hi> does like <hi>Lucina</hi> seem,</l>
+                  <pb n="12" facs="unknown:003298_0011_0F6926507098EEE8"/>Thy <hi>Art</hi> does like <hi>Lucina</hi> seem,</l>
                <l>And only helps to send the <gap reason="illegible: blotted" extent="3 letters">
                      <desc>•••</desc>
                   </gap>fect <hi>Embrio</hi> forth.</l>
@@ -393,7 +393,7 @@
                <l>Come up a <hi>glorious, great Design,</hi> — And so it did.</l>
             </lg>
             <lg n="10">
-               <pb n="13" facs="tcp:0f69715bdabf0bc0:003298_0012_0F692651225565F0"/>
+               <pb n="13" facs="unknown:003298_0012_0F692651225565F0"/>
                <head>X.</head>
                <l>With less Expence of Care and Thought</l>
                <l>Did th' antient <hi>Sage</hi> surmise</l>
@@ -426,7 +426,7 @@
                <l>But dimly on her <hi>Vot'ries</hi> shone,</l>
                <l>And half conceal'd her Face:</l>
                <l>
-                  <pb n="14" facs="tcp:0f69715bdabf0bc0:003298_0013_0F69265349D68248"/>
+                  <pb n="14" facs="unknown:003298_0013_0F69265349D68248"/>
                   <hi>Foolish Wise-men!</hi> Nor was their Sense</l>
                <l>Acuter to perceive a <hi>Providence.</hi>
                </l>
@@ -458,7 +458,7 @@
                <l>And learn our Fathers Vertues to pursue,</l>
                <l>Their Follies to eschew.</l>
                <l>
-                  <pb n="15" facs="tcp:0f69715bdabf0bc0:003298_0014_0F69265364A73978"/>And may that <hi>Art</hi> to latest Times proclaim</l>
+                  <pb n="15" facs="unknown:003298_0014_0F69265364A73978"/>And may that <hi>Art</hi> to latest Times proclaim</l>
                <l>Its PATRON's Honourable Name.</l>
                <l>As some <hi>Sybillin</hi> Book of old,</l>
                <l>Had <hi>Sybils</hi> known the Times to come,</l>
